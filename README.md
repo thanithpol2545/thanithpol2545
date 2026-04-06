@@ -35,13 +35,14 @@
 
 ## 📊 GitHub Stats
 
-![Thanithpol's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanithpol2545\&show_icons=true\&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=thanithpol2545&show_icons=true&count_private=true)
+
 
 ---
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanithpol2545\&layout=compact)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanithpol2545&layout=compact)
 
 ---
 
