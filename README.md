@@ -44,14 +44,6 @@
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanithpol2545&layout=compact)
 
----
-
-## 🏆 Badges
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Databricks](https://img.shields.io/badge/Databricks-orange)
-![ESG](https://img.shields.io/badge/ESG-green)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
 ---
 
