@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 📊 GitHub Stats
+![Thanithpol's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanithpol2545&show_icons=true&theme=default)
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanithpol2545&layout=compact)
 -->
