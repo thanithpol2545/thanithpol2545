@@ -45,6 +45,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thanithpol2545&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanithpol2545&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanithpol2545&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
