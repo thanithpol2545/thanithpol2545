@@ -49,21 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanithpol2545&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanithpol2545&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanithpol2545&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
-
-### 🏆 Achievements
-- 🥇 Selected for a national AI Engineering Program from 10,000+ applicants to the final 180 candidates
-- 🎓 Environmental Engineering Graduate from Kasetsart University
-- 🌱 Research Assistant in Smart Farming & Controlled Environment Agriculture
-- 📊 Experience in ESG, Data Analytics, and Environmental Monitoring
 
 ---
 
@@ -78,10 +64,8 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thanithpol-thiramongkolchai-2103151a8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center"><i>⭐ Turning environmental challenges into data-driven solutions.</i></p>
