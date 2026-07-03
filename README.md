@@ -55,8 +55,6 @@
 
 ---
 
----
-
 ### 🎯 Current Focus
 - Data Engineering & Analytics
 - AI Engineering & LLM Applications
