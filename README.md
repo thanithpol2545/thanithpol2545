@@ -62,6 +62,8 @@
 
 ### GitHub Activity
 
+#### Overview
+
 <p align="center">
   <img
     width="90%"
@@ -69,6 +71,8 @@
     alt="GitHub Profile Details"
   />
 </p>
+
+#### Languages
 
 <p align="center">
   <img
@@ -82,6 +86,18 @@
     alt="Most Commit Languages"
   />
 </p>
+
+#### Contribution Streak
+
+<p align="center">
+  <img
+    width="60%"
+    src="https://streak-stats.demolab.com/?user=thanithpol2545&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+#### Contribution Activity
 
 <p align="center">
   <img
