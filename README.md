@@ -67,7 +67,7 @@
 <p align="center">
   <img
     width="90%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanithpol2545&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanithpol2545&theme=github_dark&title_color=58A6FF&text_color=FEFEFE&bg_color=0D1117&border_color=00000000&icon_color=58A6FF&chart_color=1F6FEB"
     alt="GitHub Profile Details"
   />
 </p>
@@ -77,12 +77,12 @@
 <p align="center">
   <img
     width="45%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanithpol2545&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanithpol2545&theme=github_dark&title_color=58A6FF&text_color=FEFEFE&bg_color=0D1117&border_color=00000000&icon_color=58A6FF&chart_color=1F6FEB"
     alt="Top Languages"
   />
   <img
     width="45%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanithpol2545&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanithpol2545&theme=github_dark&title_color=58A6FF&text_color=FEFEFE&bg_color=0D1117&border_color=00000000&icon_color=58A6FF&chart_color=1F6FEB"
     alt="Most Commit Languages"
   />
 </p>
@@ -102,7 +102,7 @@
 <p align="center">
   <img
     width="90%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=thanithpol2545&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=thanithpol2545&bg_color=0D1117&color=FEFEFE&title_color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>
