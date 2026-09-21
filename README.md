@@ -78,8 +78,8 @@
   />
   <img
     width="45%"
-    src="https://streak-stats.demolab.com/?user=thanithpol2545&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanithpol2545&theme=github_dark"
+    alt="Most Commit Languages"
   />
 </p>
 
