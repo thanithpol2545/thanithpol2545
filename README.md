@@ -60,28 +60,34 @@
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thanithpol2545&theme=github_dark"
-    alt="GitHub Stats"
+    width="90%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanithpol2545&theme=github_dark"
+    alt="GitHub Profile Details"
   />
 </p>
 
-<!-- GitHub Streak -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=thanithpol2545&theme=github-dark-blue"
+    width="45%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanithpol2545&theme=github_dark"
+    alt="Top Languages"
+  />
+  <img
+    width="45%"
+    src="https://streak-stats.demolab.com/?user=thanithpol2545&theme=github-dark-blue&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanithpol2545&theme=github_dark"
-    alt="Top Languages"
+    width="90%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=thanithpol2545&theme=github-compact&hide_border=true"
+    alt="GitHub Activity Graph"
   />
 </p>
 
