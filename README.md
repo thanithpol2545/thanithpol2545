@@ -63,13 +63,26 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanithpol2545&show_icons=true&theme=blue-navy" alt="GitHub Stats" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thanithpol2545&theme=github_dark"
+    alt="GitHub Stats"
+  />
 </p>
+
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanithpol2545&theme=blue-navy" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=thanithpol2545&theme=github-dark-blue"
+    alt="GitHub Streak"
+  />
 </p>
+
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanithpol2545&layout=compact&theme=blue-navy" alt="Top Languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanithpol2545&theme=github_dark"
+    alt="Top Languages"
+  />
 </p>
 
 ---
