@@ -102,7 +102,7 @@
 <p align="center">
   <img
     width="90%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=thanithpol2545&theme=github-compact&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=thanithpol2545&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>
